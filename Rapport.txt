@@ -1,0 +1,22 @@
+1.(Identifiants)
+SAMSON Pierre : @samson : 21956843
+ZHANG Changrui : @zhangcch : 21953192
+
+
+2.(Fonctionnalités)
+Toutes les options sont implémentées et ( à priori) totalement fonctionnelles.
+
+3.(Compilation et exécution)
+1. make
+2. ./run --command file
+
+
+4.(Découpage modulaire)
+Il y a seulement une grande classe polish/
+
+5.(Organisation du travail)
+Nous avons travaillé conjointement en s'aidant mutuellement pour avancer.
+
+
+6.(Misc)
+Rien pour le moment.
